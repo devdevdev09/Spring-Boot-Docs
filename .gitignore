@@ -91,3 +91,4 @@ $RECYCLE.BIN/
 .settings/*
 .classpath
 .factorypath
+.project
